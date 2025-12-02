@@ -1,0 +1,2 @@
+console.log("Vidhi")
+//java script is dynamically typed language and not statically typed as while declaring variable i don't specify the datatuype and datype is check and the runtime not at the compile time
